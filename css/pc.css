@@ -1,0 +1,42 @@
+.contratar{
+    display: grid;
+    grid-template:0fr/1fr 1fr;
+    justify-items:center;
+}
+.ContenedorSlide{
+    max-width:1600px;
+}
+.SlideContentTotal{
+    display:grid;
+    justify-items:center;
+}
+.iconNextBefore img{
+    width:40px;
+    height:40px;
+}
+.iconNextAfter img{
+    width:40px;
+    height:40px;
+}
+.listSelectorSlide li{
+    width:120px;
+    margin:5px 20px;
+}
+.History p{
+    width:60rem;
+}
+.Productos{
+    justify-content:start;
+}
+.contratar h1{
+    font-size:6rem;
+}
+.contratarContenedorElementos h5{
+    font-size:3rem;
+}
+.contratarContenedorElementos img{
+    width:32rem;
+}
+.contratarContenedorElementos p{
+    max-width:32rem;
+}
