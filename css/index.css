@@ -257,7 +257,7 @@ html{
             margin-bottom:20px;
             text-shadow:2px 2px 1px rgb(61, 20, 20);
         }
-        .contratarContenedorElementos img{
+        .imgElementoContratar {
             width:32rem;
         }
         .contratarContenedorElementos p{
@@ -268,10 +268,10 @@ html{
             font-size:2rem;
             color: rgba(70, 85, 41, 0.89);
         }
-        .contratarContenedorElementos .redes a{
+        .redes a{
             text-decoration: none;
         }
-        .contratarContenedorElementos .redes img{
+        .redes img{
             width:30px;
             margin:0 0 20px 10px;
         }
