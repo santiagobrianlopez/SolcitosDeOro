@@ -34,8 +34,9 @@
 .contratarContenedorElementos h5{
     font-size:3rem;
 }
-.contratarContenedorElementos img{
+.imgElementoContratar{
     width:32rem;
+    border-radius:50px;
 }
 .contratarContenedorElementos p{
     max-width:32rem;
